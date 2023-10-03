@@ -1,4 +1,4 @@
-cnetid:jiamengfan Jamie Fan
+cnetid:jiamengfan Jamie Fan UChicago CS Git Tutorial 
 git add README.md
 git commit -m "first commit"
 git branch -M main
